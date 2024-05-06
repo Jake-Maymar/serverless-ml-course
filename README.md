@@ -1,5 +1,9 @@
-
+# **Badges**
+[![iris-feature-and-prediction-pipelines](https://github.com/Jake-Maymar/serverless-ml-course/actions/workflows/features-and-predictions.yml/badge.svg)](https://github.com/Jake-Maymar/serverless-ml-course/actions/workflows/features-and-predictions.yml)
 ![readme header](/assets//images/card_horizontal.jpg)
+
+
+
 
 
 <a href="https://join.slack.com/t/featurestoreorg/shared_invite/zt-ssh8dec1-IsvwLdTsRMssjT4~Ru2RKg" alt="slack"> <img src="https://img.shields.io/badge/Join Slack-blue.svg?logo=slack" /></a> 
