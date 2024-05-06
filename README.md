@@ -1,6 +1,8 @@
-#Badges
+# **Badges**
 [![iris-feature-and-prediction-pipelines](https://github.com/Jake-Maymar/serverless-ml-course/actions/workflows/features-and-predictions.yml/badge.svg)](https://github.com/Jake-Maymar/serverless-ml-course/actions/workflows/features-and-predictions.yml)
 ![readme header](/assets//images/card_horizontal.jpg)
+
+
 
 
 
